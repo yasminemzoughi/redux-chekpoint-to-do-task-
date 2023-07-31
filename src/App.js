@@ -10,7 +10,7 @@ function App() {
  <h1>to do list</h1>
  <AddTask/>
  <ListTask/>
-    </div>
+    </div> 
   );
 }
 
